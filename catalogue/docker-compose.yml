@@ -1,0 +1,8 @@
+web:
+    build: .
+    command: python -u catalogue.py
+    ports:
+        - "5002:5002"
+    volumes: 
+        - .:/catalogue
+

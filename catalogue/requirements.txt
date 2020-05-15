@@ -1,0 +1,6 @@
+flask
+flask_restful
+requests
+request
+bson
+pymongo
